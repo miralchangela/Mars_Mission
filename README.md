@@ -28,11 +28,11 @@ The mission to mars project for to take on the full web-scraping and data analys
 
 * Furthermore, we can plot the graph for finding answers to questions.
 
-* The following image gives the information about What are the coldest and the warmest months on Mars. From the graph, we can clearly see that month 3 is the coldest month with -90.0 degree minimum tempreture when month 1 is the warmest month with -62.0 degree minimum temprature.
+* The following image gives the information about What are the coldest and the warmest months on Mars. From the graph, we can clearly see that month 3 is the coldest month with -83.30 degree minimum average tempreture when month 8 is the warmest month with -68.38 degree minimum average temprature.
 
 ![temp_of_all_months](https://github.com/miralchangela/Mars_Mission/blob/main/Images/temp_of_all_months.png)
 
-* The following image gives the information about Which months have the lowest and the highest atmospheric pressure on Mars. Graph shows that month 5 has  lowest atmospheric pressure with 727.0 when month 9 has highest atmospheric pressure with 925.0.
+* The following image gives the information about Which months have the lowest and the highest atmospheric pressure on Mars. Graph shows that month 6 has  lowest atmospheric average pressure with 745.05 when month 9 has highest average atmospheric pressure with 913.30.
 
 ![prsr_of_all_months](https://github.com/miralchangela/Mars_Mission/blob/main/Images/pressure_of_all_months.png)
 
