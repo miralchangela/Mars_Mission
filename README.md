@@ -37,5 +37,5 @@ The mission to mars project for to take on the full web-scraping and data analys
 ![prsr_of_all_months](https://github.com/miralchangela/Mars_Mission/blob/main/Images/pressure_of_all_months.png)
 
 * The following plot visually estimates the result by plotting the daily minimum temperature.
-*
+
 ![Daily_minimum_tempreture](https://github.com/miralchangela/Mars_Mission/blob/main/Images/Daily_minimum_tempreture.png)
